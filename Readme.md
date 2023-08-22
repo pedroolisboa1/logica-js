@@ -66,6 +66,6 @@ let idade = prompt('Digite a sua idade');
 ```js
 let idade = prompt('Digite a sua idade');
 if (idade >= 18) {
-    alert('Pode tirar a habilitação)
+    alert('Pode tirar a habilitação!'); 
 }
 ```
